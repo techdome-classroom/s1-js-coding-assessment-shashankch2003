@@ -1,4 +1,4 @@
-const getTotalIsles = function (grid)  if (!grid || grid.length === 0) return 0;
+const getTotalIsles = function (grid){  if (!grid || grid.length === 0) return 0;
 
 let numIslands = 0;
 
